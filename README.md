@@ -2,4 +2,4 @@
 SED505 Assignment 1
 
 # Output
-![Output](https://imgur.com/mqHW7NC)
+![Output](Main Demo.png)
