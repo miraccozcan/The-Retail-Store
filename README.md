@@ -2,4 +2,4 @@
 SED505 Assignment 1
 
 # Output
-![Output](Main Demo.png)
+![Output](output.png)
